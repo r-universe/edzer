@@ -3,3 +3,27 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "hexbin"]
+	path = hexbin
+	url = https://github.com/edzer/hexbin
+	shallow = true
+[submodule "intervals"]
+	path = intervals
+	url = https://github.com/edzer/intervals
+	shallow = true
+[submodule "sp"]
+	path = sp
+	url = https://github.com/edzer/sp
+	shallow = true
+[submodule "spacetime"]
+	path = spacetime
+	url = https://github.com/edzer/spacetime
+	shallow = true
+[submodule "trajectories"]
+	path = trajectories
+	url = https://github.com/edzer/trajectories
+	shallow = true
+[submodule "vardiag"]
+	path = vardiag
+	url = https://github.com/edzer/vardiag
+	shallow = true
