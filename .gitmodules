@@ -8,34 +8,28 @@
 	url = https://github.com/edzer/hexbin
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "intervals"]
 	path = intervals
 	url = https://github.com/edzer/intervals
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "sp"]
 	path = sp
 	url = https://github.com/edzer/sp
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "spacetime"]
 	path = spacetime
 	url = https://github.com/edzer/spacetime
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "trajectories"]
 	path = trajectories
 	url = https://github.com/edzer/trajectories
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "vardiag"]
 	path = vardiag
 	url = https://github.com/edzer/vardiag
 	shallow = true
 	registered = true
-	oncran = true
