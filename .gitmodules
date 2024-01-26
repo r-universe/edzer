@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/edzer/universe
+	url = https://github.com/edzer/edzer.r-universe.dev
 	branch = HEAD
 [submodule "hexbin"]
 	path = hexbin
